@@ -1,52 +1,110 @@
-# Jorge Eduardo Rojas
+<div align="center">
+  <h1>Jorge Eduardo Rojas</h1>
+  <h3>Full Stack Developer · ERP · Mobile · Cloud</h3>
+  <p>Construyo sistemas empresariales, APIs y aplicaciones móviles que convierten problemas complejos en soluciones claras y escalables.</p>
+</div>
 
-### Desarrollador Full Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-2563eb?style=for-the-badge" alt="6+ years experience" />
+  <img src="https://img.shields.io/badge/Available-Freelance-16a34a?style=for-the-badge" alt="Available freelance" />
+</p>
 
-Desarrollador Full Stack con más de 6 años de experiencia creando sistemas empresariales, APIs, aplicaciones móviles y soluciones cloud. Me enfoco en resolver problemas complejos y convertir necesidades de negocio en productos estables y escalables.
+---
 
-## Experiencia y proyectos
+## 👋 Sobre mí
 
-### Augen Solutions — Desarrollador Full Stack Freelance
-- Sistema de gestión y aplicación móvil con lectura RFID para control, rastreo e inventario de activos.
-- Infraestructura en Azure y pipelines de CI/CD para el despliegue.
-- Automatización de flujos de trabajo con Power Automate.
+Soy desarrollador Full Stack con más de 6 años de experiencia diseñando y construyendo productos digitales para operaciones empresariales, movilidad, administración y automatización. He trabajado en proyectos simultáneos como freelance y dentro de equipos de producto.
 
-### Kesher — Desarrollador Full Stack Freelance
-- **KesherApp:** aplicación móvil desarrollada con Flutter y backend en .NET.
-- **KesherCalls:** sitio web desarrollado con ASP.NET Core.
+## 💼 Experiencia y proyectos
 
-### Varyon — Desarrollador Full Stack Freelance
-- Sistema deportivo desarrollado con React y Node.js.
-- Configuración de pipelines de CI/CD para su despliegue.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### B Life — Gerente de Programación
-- Liderazgo del desarrollo de un ERP completo con React y Node.js.
-- Aplicaciones móviles complementarias con React Native.
-- Implementación de infraestructura cloud escalable en AWS.
+### 🛰️ Augen Solutions
+<sub>Desarrollador Full Stack Freelance · Feb 2026 – Ago 2026</sub>
 
-### Strappbberry — Desarrollador Frontend
-- Sistemas para la gestión de planes de nutrición con Laravel y Livewire.
-- Mantenimiento de aplicaciones móviles con Ionic Angular.
-- Actualización de páginas web desarrolladas con Angular.
+Sistema de gestión y aplicación móvil con lectura RFID para el control, rastreo e inventario de activos. Infraestructura en Azure, CI/CD y automatización con Power Automate.
 
-### EON Innovation — Desarrollador Full Stack
-- **IVER:** aplicación móvil nativa en Java para la detección de vehículos robados.
-- **IPH Plus:** aplicación móvil nativa en Java para generar informes policiales estandarizados.
-- Sistemas web desarrollados con React y desplegados en Azure.
+</td>
+<td width="50%" valign="top">
 
-### JRSYSTEMS — Desarrollador Frontend Freelance
-- Sistema de control de inventario y gestión de activos con React y Laravel.
-- Sistemas de apoyo comunitario, quejas y solicitudes ciudadanas con Laravel.
-- Tienda en línea desarrollada con React y Laravel.
+### 📱 Kesher
+<sub>Desarrollador Full Stack Freelance · Feb 2026 – Ago 2026</sub>
 
-## Tecnologías
+**KesherApp:** aplicación móvil con Flutter y backend en .NET. **KesherCalls:** sitio web desarrollado con ASP.NET Core.
 
-- **Frontend:** React, Angular, React Native, Ionic, Flutter, JavaScript
-- **Backend:** Node.js, Laravel, .NET, ASP.NET Core, Java
-- **Bases de datos:** MySQL, MongoDB, SQL Server
-- **Cloud y despliegue:** AWS, Azure, CI/CD, Power Automate
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Formación
+### ⚽ Varyon
+<sub>Desarrollador Full Stack Freelance · Nov 2025 – May 2026</sub>
 
-**Ingeniería en Sistemas y Tecnologías de la Información**  
-Universidad del Valle de Puebla · 2018–2022
+Sistema deportivo desarrollado con React y Node.js, con pipelines de CI/CD para su despliegue.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 B Life
+<sub>Gerente de Programación · Feb 2023 – Sep 2025</sub>
+
+Lideré el desarrollo de un ERP con React y Node.js, aplicaciones móviles con React Native e infraestructura cloud escalable en AWS.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 Strappbberry
+<sub>Desarrollador Frontend · Mar 2022 – Mar 2023</sub>
+
+Sistemas de nutrición con Laravel y Livewire, mantenimiento de aplicaciones Ionic Angular y actualización de sitios Angular.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚓 EON Innovation
+<sub>Desarrollador Full Stack · Mar 2019 – Mar 2022</sub>
+
+**IVER** e **IPH Plus**, aplicaciones móviles nativas en Java, además de sistemas web con React desplegados en Azure.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ JRSYSTEMS
+<sub>Desarrollador Frontend Freelance · Ago 2020 – Feb 2022</sub>
+
+Proyectos paralelos de inventario, gestión de activos, apoyo comunitario, solicitudes ciudadanas y comercio electrónico con React, Laravel y Angular.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Formación
+<sub>Universidad del Valle de Puebla · 2018 – 2022</sub>
+
+Ingeniería en Sistemas y Tecnologías de la Información.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,dotnet,java,flutter,aws,azure,mysql,mongodb&perline=6" alt="Tecnologías" />
+</p>
+
+<p align="center">
+  <strong>Frontend:</strong> React · Angular · React Native · Ionic · Flutter · JavaScript<br />
+  <strong>Backend:</strong> Node.js · Laravel · .NET · ASP.NET Core · Java<br />
+  <strong>Datos y cloud:</strong> MySQL · MongoDB · SQL Server · AWS · Azure · CI/CD · Power Automate
+</p>
+
+<div align="center">
+  <p><strong>¿Tienes un problema complejo? Construyamos una solución.</strong></p>
+</div>
