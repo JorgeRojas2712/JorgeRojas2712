@@ -27,7 +27,7 @@ Soy desarrollador Full Stack con más de 6 años de experiencia diseñando y con
 ## <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%232563eb" width="22" height="22" alt="" /> Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRojas2712&show_icons=true&hide_border=true&theme=transparent&title_color=0f172a&text_color=57606a&icon_color=2563eb&border_radius=16" alt="Estadísticas de GitHub" height="165" style="border-radius:16px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRojas2712&show_icons=true&hide_border=true&theme=transparent&title_color=0f172a&text_color=57606a&icon_color=2563eb&border_radius=16&hide_rank=true" alt="Estadísticas de GitHub" height="165" style="border-radius:16px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRojas2712&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=57606a&border_radius=16" alt="Lenguajes más usados" height="165" style="border-radius:16px;" />
 </p>
 
