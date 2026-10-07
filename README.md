@@ -1,8 +1,14 @@
-<div align="center">
-  <h1>Jorge Eduardo Rojas</h1>
-  <h3>Full Stack Developer · ERP · Mobile · Cloud</h3>
-  <p>Construyo sistemas empresariales, APIs y aplicaciones móviles que convierten problemas complejos en soluciones claras y escalables.</p>
-</div>
+<p align="center">
+  <img src="https://github.com/JorgeRojas2712.png?size=240" width="170" alt="Jorge Eduardo Rojas" />
+</p>
+
+<h1 align="center">Jorge Eduardo Rojas</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;ERP+%7C+Mobile+%7C+Cloud;React+%7C+Node.js+%7C+Azure+%7C+AWS" alt="Full Stack Developer · ERP · Mobile · Cloud" />
+</p>
+
+<p align="center">Construyo sistemas empresariales, APIs y aplicaciones móviles que convierten problemas complejos en soluciones claras y escalables.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge" alt="Full Stack Developer" />
@@ -37,80 +43,53 @@ Soy desarrollador Full Stack con más de 6 años de experiencia diseñando y con
 
 ## <img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%232563eb" width="22" height="22" alt="" /> Experiencia y proyectos
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/satellite.svg?color=%232563eb" width="20" height="20" alt="" /> Augen Solutions
-<sub>Desarrollador Full Stack Freelance · Feb 2026 – Ago 2026</sub>
-
+<details open>
+<summary><img src="https://api.iconify.design/lucide/satellite.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>Augen Solutions</strong> · Full Stack Freelance · Feb 2026 – Ago 2026</summary>
+<br>
 Sistema de gestión y aplicación móvil con lectura RFID para el control, rastreo e inventario de activos. Infraestructura en Azure, CI/CD y automatización con Power Automate.
+</details>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><img src="https://api.iconify.design/lucide/smartphone.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>Kesher</strong> · Full Stack Freelance · Feb 2026 – Ago 2026</summary>
+<br>
+<strong>KesherApp:</strong> aplicación móvil con Flutter y backend en .NET. <strong>KesherCalls:</strong> sitio web desarrollado con ASP.NET Core.
+</details>
 
-### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%232563eb" width="20" height="20" alt="" /> Kesher
-<sub>Desarrollador Full Stack Freelance · Feb 2026 – Ago 2026</sub>
-
-**KesherApp:** aplicación móvil con Flutter y backend en .NET. **KesherCalls:** sitio web desarrollado con ASP.NET Core.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/trophy.svg?color=%232563eb" width="20" height="20" alt="" /> Varyon
-<sub>Desarrollador Full Stack Freelance · Nov 2025 – May 2026</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/trophy.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>Varyon</strong> · Full Stack Freelance · Nov 2025 – May 2026</summary>
+<br>
 Sistema deportivo desarrollado con React y Node.js, con pipelines de CI/CD para su despliegue.
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/database.svg?color=%232563eb" width="20" height="20" alt="" /> B Life
-<sub>Gerente de Programación · Feb 2023 – Sep 2025</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/database.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>B Life</strong> · Gerente de Programación · Feb 2023 – Sep 2025</summary>
+<br>
 Lideré el desarrollo de un ERP con React y Node.js, aplicaciones móviles con React Native e infraestructura cloud escalable en AWS.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/leaf.svg?color=%232563eb" width="20" height="20" alt="" /> Strappbberry
-<sub>Desarrollador Frontend · Mar 2022 – Mar 2023</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/leaf.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>Strappbberry</strong> · Frontend · Mar 2022 – Mar 2023</summary>
+<br>
 Sistemas de nutrición con Laravel y Livewire, mantenimiento de aplicaciones Ionic Angular y actualización de sitios Angular.
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/shield.svg?color=%232563eb" width="20" height="20" alt="" /> EON Innovation
-<sub>Desarrollador Full Stack · Mar 2019 – Mar 2022</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/shield.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>EON Innovation</strong> · Full Stack · Mar 2019 – Mar 2022</summary>
+<br>
 IVER e IPH Plus, aplicaciones móviles nativas en Java, además de sistemas web con React desplegados en Azure.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/settings-2.svg?color=%232563eb" width="20" height="20" alt="" /> JRSYSTEMS
-<sub>Desarrollador Frontend Freelance · Ago 2020 – Feb 2022</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/settings-2.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>JRSYSTEMS</strong> · Frontend Freelance · Ago 2020 – Feb 2022</summary>
+<br>
 Proyectos paralelos de inventario, gestión de activos, apoyo comunitario, solicitudes ciudadanas y comercio electrónico con React, Laravel y Angular.
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232563eb" width="20" height="20" alt="" /> Formación
-<sub>Universidad del Valle de Puebla · 2018 – 2022</sub>
-
+<details>
+<summary><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232563eb" width="20" height="20" alt="" /> <strong>Formación</strong> · Universidad del Valle de Puebla · 2018 – 2022</summary>
+<br>
 Ingeniería en Sistemas y Tecnologías de la Información.
-
-</td>
-</tr>
-</table>
+</details>
 
 ## <img src="https://api.iconify.design/lucide/wrench.svg?color=%232563eb" width="22" height="22" alt="" /> Tecnologías
 
@@ -118,8 +97,8 @@ Ingeniería en Sistemas y Tecnologías de la Información.
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,laravel,dotnet,java,flutter,aws,azure,mysql,mongodb&perline=6" alt="Tecnologías" />
 </p>
 
-**Frontend:** React · Angular · React Native · Ionic · Flutter · JavaScript  
-**Backend:** Node.js · Laravel · .NET · ASP.NET Core · Java  
-**Datos y cloud:** MySQL · MongoDB · SQL Server · AWS · Azure · CI/CD · Power Automate
+<strong>Frontend:</strong> React · Angular · React Native · Ionic · Flutter · JavaScript  
+<strong>Backend:</strong> Node.js · Laravel · .NET · ASP.NET Core · Java  
+<strong>Datos y cloud:</strong> MySQL · MongoDB · SQL Server · AWS · Azure · CI/CD · Power Automate
 
 <p align="center"><i>¿Tienes un problema complejo? Construyamos una solución.</i></p>
